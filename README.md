@@ -1,5 +1,5 @@
 # LangChat
-Chat bot using LangChain 
+This project is for delving into the basics of LLM Application development starting with Chatbots.
 
 
 
